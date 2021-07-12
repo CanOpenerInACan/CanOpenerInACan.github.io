@@ -3,8 +3,6 @@ logo: "/images/picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   This is the coursework from my data science masters from Bellevue University.
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/davidlattimerjr/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
