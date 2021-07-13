@@ -2,8 +2,6 @@
 
 ---
 
-### Category Name 1 
-
 Under Construction!
 For the Github repository: [Click Here](https://github.com/CanOpenerInACan/Data-Science-Masters)
 
@@ -19,8 +17,6 @@ For the Github repository: [Click Here](https://github.com/CanOpenerInACan/Data-
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
