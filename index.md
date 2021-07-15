@@ -6,7 +6,7 @@ Under Construction!
 For the Github repository: [Click Here](https://github.com/CanOpenerInACan/Data-Science-Masters)
 
 [Vaccine Hesitancy](https://github.com/CanOpenerInACan/Data-Science-Masters/tree/main/DSC%20680/Vaccine%20Hesitancy/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/hesitancy_map.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
