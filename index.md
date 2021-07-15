@@ -9,8 +9,8 @@ For the Github repository: [Click Here](https://github.com/CanOpenerInACan/Data-
 <img src="images/hesitancy_map.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Flight Safety Presentation](https://github.com/CanOpenerInACan/Data-Science-Masters/tree/main/DSC640/Flight%20Safety)
+<img src="images/Dashboard.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
