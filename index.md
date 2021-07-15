@@ -3,26 +3,25 @@
 ---
 
 Under Construction!
-For the Github repository: [Click Here](https://github.com/CanOpenerInACan/Data-Science-Masters)
+For the Github repository: [Click Here] (https://github.com/CanOpenerInACan/DSC_Projects)
 
-[Vaccine Hesitancy](https://github.com/CanOpenerInACan/Data-Science-Masters/tree/main/DSC%20680/Vaccine%20Hesitancy/)
+[Vaccine Hesitancy](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
 <img src="images/hesitancy_map.png?raw=true"/>
 
 ---
-[Flight Safety Presentation](https://github.com/CanOpenerInACan/Data-Science-Masters/tree/main/DSC640/Flight%20Safety)
+[Airline Safety Presentation](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
 <img src="images/Dashboard.png?raw=true"/>
 
 ---
-[Sentiment Analysis Stock Analysis](https://github.com/CanOpenerInACan/Data-Science-Masters/tree/main/DSC%20630/Sentiment%20Stock%20Analysis)
+[Sentiment Analysis Stock Analysis](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
 <img src="images/doge sentiment.png?raw=true"/>
 
 ---
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Heart Disease Case Study](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Heart%20Disease%20Case%20Study)
+- [Titanic Case Study](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Titanic%20Case%20Study)
+- [NYC SAT Scores](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/NYC%20SAT%20Scores)
+- [NFL Data Cleaning](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/NFL%20Data%20Cleaning)
 
 ---
 
