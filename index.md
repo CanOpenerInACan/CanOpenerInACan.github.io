@@ -13,8 +13,8 @@ For the Github repository: [Click Here](https://github.com/CanOpenerInACan/Data-
 <img src="images/Dashboard.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentiment Analysis Stock Analysis](https://github.com/CanOpenerInACan/Data-Science-Masters/tree/main/DSC%20630/Sentiment%20Stock%20Analysis)
+<img src="images/doge sentiment.png?raw=true"/>
 
 ---
 
