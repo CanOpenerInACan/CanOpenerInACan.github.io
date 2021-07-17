@@ -2,9 +2,6 @@
 
 ---
 
-Under Construction!
-For the Github repository: [Click Here] (https://github.com/CanOpenerInACan/DSC_Projects)
-
 [Vaccine Hesitancy](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
 <img src="images/hesitancy_map.png?raw=true"/>
 
