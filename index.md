@@ -12,7 +12,7 @@
 
 ---
 [Airline Safety Presentation](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
-[<img src="images/Dashboard.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
+[<img src="images/seatbelt.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
 
 ---
 [Sentiment Analysis Stock Analysis](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
