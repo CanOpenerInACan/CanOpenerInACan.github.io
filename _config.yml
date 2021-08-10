@@ -1,5 +1,5 @@
 title: David Lattimer # your name (or website title) here
-<img src="https://canopenerinacan.github.io/images/picture.jpg?raw=true" width="20" height="20" />
+logo: <img src="https://canopenerinacan.github.io/images/picture.jpg?raw=true" width="20" height="20" />
 description: > # your text below (remove <br> elements if you don't need line breaks)
   This is the coursework from my data science masters from Bellevue University.
   <br><br>
