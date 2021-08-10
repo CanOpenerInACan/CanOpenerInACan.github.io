@@ -8,7 +8,7 @@
 ---
 
 [Vaccine Hesitancy](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
-[<img src="images/hesitancy_map.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
+[<img src="images/vaccine.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
 
 ---
 [Airline Safety Presentation](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
