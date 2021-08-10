@@ -2,16 +2,21 @@
 
 ---
 
+[Disneyland Review Predictions](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Disneyland%20Reviews)
+[<img src="images/disneyland.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Disneyland%20Reviews)
+
+---
+
 [Vaccine Hesitancy](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
 [<img src="images/hesitancy_map.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
 
 ---
 [Airline Safety Presentation](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
-<img src="images/Dashboard.png?raw=true"/>
+[<img src="images/Dashboard.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
 
 ---
 [Sentiment Analysis Stock Analysis](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
-<img src="images/doge sentiment.png?raw=true"/>
+[<img src="images/doge sentiment.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
 
 ---
 
