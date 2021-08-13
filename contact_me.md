@@ -1,4 +1,8 @@
-*Contact Me*
+## Contact Me
+
+---
+
+
 <!-- modify this form HTML and place wherever you want your form -->
 <form
   action="https://formspree.io/f/xbjqplnd"
