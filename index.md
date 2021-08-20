@@ -2,6 +2,9 @@
 
 ---
 
+[Food Image Classification](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Food%20Classification)
+[<img src="images/cake roll.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Food%20Classification)
+
 [Disneyland Review Predictions](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Disneyland%20Reviews)
 [<img src="images/disneyland.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Disneyland%20Reviews)
 
