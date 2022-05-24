@@ -1,6 +1,6 @@
 ## Class Projects Portfolio
 
-[Week 11](https://github.com/CanOpenerInACan/Data-Science-Masters/blob/main/DSC%20650/DavidLattimerAssignment11)
+[Week 11](https://github.com/CanOpenerInACan/Data-Science-Masters/blob/main/DSC%20650/DavidLattimerAssignment11.ipynb)
 ---
 
 <a href="https://canopenerinacan.github.io/Food_classification">Food Image Classification</a>
