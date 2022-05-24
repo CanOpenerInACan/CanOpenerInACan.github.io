@@ -1,6 +1,6 @@
 ## Class Projects Portfolio
 
-<a href="https://canopenerinacan.github.io/week11"> Week 11 </a>
+<a href="https://canopenerinacan.github.io/DavidLattimerAssignment11.ipynb"> Week 11 </a>
 ---
 
 <a href="https://canopenerinacan.github.io/Food_classification">Food Image Classification</a>
