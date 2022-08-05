@@ -16,12 +16,14 @@
 [<img src="images/vaccine.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
 
 ---
-[Airline Safety Presentation](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
-[<img src="images/seatbelt.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
 
----
 [Sentiment Analysis Stock Analysis](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
 [<img src="images/doge sentiment.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
+
+---
+
+[Airline Safety Presentation](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
+[<img src="images/seatbelt.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
 
 ---
 
