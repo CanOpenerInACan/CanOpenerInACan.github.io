@@ -22,8 +22,8 @@
 
 ---
 
-[Airline Safety Presentation](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
-[<img src="images/seatbelt.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Airline%20Safety)
+[Airline Safety Presentation](https://canopenerinacan.github.io/airline_safety)
+[<img src="images/seatbelt.png?raw=true"/>](https://canopenerinacan.github.io/airline_safety)
 
 ---
 
