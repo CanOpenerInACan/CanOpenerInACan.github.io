@@ -1,6 +1,6 @@
 # Airline Safety
 
---
+---
 
 This project was focused mostly on the presentation of data and gleaning insights, and then finding a way to relay that information to whoever needs to see it, whether through a blog, an executive summary, a presentation or an infographic. A lot of data science is complicated and without the ability to break down the findings and suggest action from the company. Without being able to break it down to all the relevant people in the various departments, along with convincing the people that can fund the project you are suggesting, there is no reason to be doing data science in the first place.
 
