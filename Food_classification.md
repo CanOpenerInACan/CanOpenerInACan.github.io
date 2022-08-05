@@ -1,4 +1,4 @@
-## Food Classification Project
+# Food Classification Project
 ---
   This project took a dataset of 12,000 images of food that belonged to one of eleven different categories. I used image classification to build a model that would learn the characteristics of these images and place the image into one of the eleven categories based on the patterns it was noticing. The model that was used for breaking the images down and recognizing the patterns was a neural network called InceptionResNetV2, which could take the images as inputs and place the images into the categories that were set and provided for us.  
   
