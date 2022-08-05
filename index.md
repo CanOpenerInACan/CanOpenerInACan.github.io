@@ -12,8 +12,8 @@
 
 ---
 
-[Vaccine Hesitancy](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
-[<img src="images/vaccine.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Vaccine%20Hesitancy)
+[Vaccine Hesitancy](https://canopenerinacan.github.io/vaccine_hesitancy)
+[<img src="images/vaccine.jpg?raw=true"/>](https://canopenerinacan.github.io/vaccine_hestiancy)
 
 ---
 
