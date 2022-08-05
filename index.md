@@ -1,4 +1,4 @@
-## Class Projects Portfolio
+# Class Projects Portfolio
 
 ---
 
