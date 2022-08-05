@@ -4,7 +4,7 @@
 ---
 
 <a href="https://canopenerinacan.github.io/Food_classification">Food Image Classification</a>
-[<img src="images/cake roll.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Food%20Classification)
+[<img src="images/cake roll.jpg?raw=true"/>](https://canopenerinacan.github.io/Food_classification)
 
 ---
 
