@@ -13,7 +13,7 @@
 ---
 
 [Vaccine Hesitancy](https://canopenerinacan.github.io/vaccine_hesitancy)
-[<img src="images/vaccine.jpg?raw=true"/>](https://canopenerinacan.github.io/vaccine_hestiancy)
+[<img src="images/vaccine.jpg?raw=true"/>](https://canopenerinacan.github.io/vaccine_hesitancy)
 
 ---
 
