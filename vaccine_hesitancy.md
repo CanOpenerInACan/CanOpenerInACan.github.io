@@ -2,7 +2,7 @@
 
 ---
 
-This project was looking at some of COVID-19 data and trying to find the variables that contributed to vaccine hesitancy, as well as some of the solutions that should be taken to help alleviate those concerns and get more people vaccinated. The dataset used for this project was a combination of two different datasets, one that had information from data.gov that included the hesitancy rates, along with demographics of the country and the location, while the other dataset included the voting make up of each county from the 2016 election. 
+This project consisted of COVID-19 data and trying to find the variables that contributed to vaccine hesitancy, as well as some of the solutions that should be taken to help alleviate those concerns and get more people vaccinated. The dataset used for this project was a combination of two different datasets, one that had information from data.gov that included the hesitancy rates, along with demographics of the country and the location, while the other dataset included the voting make up of each county from the 2016 election. 
 
 
 By combining these datasets, we could look at the racial demographics of each country, along with the political make-up of that county. These factors contributed to a lot of the uncertainty with the vaccine and there were several views to take in terms of how to solve the issue at hand, which was people being hesitant about receiving the vaccine, which would prolong the pandemic and keep people unsafe. 
