@@ -8,7 +8,7 @@
 ---
 
 [Disneyland Review Predictions](https://canopenerinacan.github.io/disneyland_reviews)
-[<img src="images/disneyland.jpg?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Disneyland%20Reviews)
+[<img src="images/disneyland.jpg?raw=true"/>](https://canopenerinacan.github.io/disneyland_reviews)
 
 ---
 
