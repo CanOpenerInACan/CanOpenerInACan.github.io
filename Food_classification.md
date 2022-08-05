@@ -1,4 +1,4 @@
-## Hi Markie! You are famous and on the internet now!
+## Food Classification Project
 ---
   This project took a dataset of 12,000 images of food that belonged to one of eleven different categories. I used image classification to build a model that would learn the characteristics of these images and place the image into one of the eleven categories based on the patterns it was noticing. The model that was used for breaking the images down and recognizing the patterns was a neural network called InceptionResNetV2, which could take the images as inputs and place the images into the categories that were set and provided for us.  
   
@@ -9,4 +9,4 @@
   In the end, the neural network built for just categorizing the images into the eleven categories was able to return an accuracy of 0.74. There were some areas the model struggled with for various reasons, like a small sample of certain categories and foods that may have fit into multiple categories but for the sake of the dataset were thrown into just one. I was pleased with how the model performed and how it was able to categorize the images relatively accurately. The more this model could learn from user submissions, the better it would perform in the future.   
   
   
-  For the full write-up and code for this project, click here.
+  For the full write-up and code for this project, click <a href="https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Food%20Classification">here</a>.
