@@ -17,8 +17,8 @@
 
 ---
 
-[Sentiment Analysis Stock Analysis](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
-[<img src="images/doge sentiment.png?raw=true"/>](https://github.com/CanOpenerInACan/DSC_Projects/tree/main/Sentiment%20Analysis)
+[Sentiment Analysis Stock Analysis](https://canopenerinacan.github.io/stock_sentiment)
+[<img src="images/doge sentiment.png?raw=true"/>](https://canopenerinacan.github.io/stock_sentiment)
 
 ---
 
